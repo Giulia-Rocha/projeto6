@@ -2,6 +2,7 @@
     background-color: aquamarine;
     border-radius: 20px;
     
+    
 }
 #calc:hover{
     background-color: black;
@@ -26,4 +27,7 @@ p{
 }
 body{
     background-color: bisque;
+}
+div{
+    text-align: center;
 }
