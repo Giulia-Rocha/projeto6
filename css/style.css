@@ -1,8 +1,26 @@
 #calc{
     background-color: aquamarine;
+    border-radius: 20px;
+    
 }
 #calc:hover{
     background-color: black;
     color: aqua;
     cursor: pointer;
+}
+#resultado{
+    font-size: 30px;
+    color:blue;
+    margin-left: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+p{
+    text-align: center;
+    margin-top: 55px;
 }
